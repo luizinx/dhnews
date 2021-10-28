@@ -1,5 +1,5 @@
 body{
-    background-color: blue;
+    background-color:darkgrey;
 }
 
 header{
@@ -8,7 +8,7 @@ header{
 }
 
 main {
-    background-color: rbga(245, 227, 224);
+    background-color: darkgrey(245, 227, 224);
     width: 960px;
     margin: 50px auto 50px auto;
     padding: 50px;
