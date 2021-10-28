@@ -21,9 +21,3 @@ img{
     margin: 0 auto 0 auto;
     display: block;
 }
-retangulo {
-    display: table;
-    width: 200px;
-    height: 200px;
-    background: #4679BD;
-}
